@@ -1,0 +1,18 @@
+                                                    -- > Some important Notes Regarding the project < --
+                                                    
+--> I have written all the Important details of program at the top of my code.py file you can check there.
+
+--> I have created a user login / sign-up page using python GUI with some intermediate level code.
+
+--> You should be aware of basic python libraries like tkinter and mysql.connector.
+
+--> I have used my own mysql connector [ localhost / user / password and database ] which could be different in your machine/mySQL ,  So make sure if you copy my code 
+    make changes in mysql.connector area to connect your python program with your own database.
+
+--> Users need to sign up in the regestration form before logging in it else it will give error.
+
+--> Once the user is signed in his details would be added to the database which i have linked with python file.
+
+--> Users can reset their username / password as many times they want , they can do so by confirming their email / phone number , if the entered phone number or any other
+    detail does not match with the entires present in the database then user may not be allowed to make any changes .
+    
